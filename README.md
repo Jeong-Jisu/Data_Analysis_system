@@ -10,7 +10,8 @@ PyQT, QT Designer, Python, Statistics, ML/DL etc.
 <br>
 
 ## Main.py 
-![image02](https://github.com/Jeong-Jisu/Data_Analysis_system/assets/112859100/3d177821-913b-427a-9ea3-7c968109a35c)
+![image01](https://github.com/Jeong-Jisu/Data_Analysis_system/assets/112859100/cb774b1b-062c-422a-b52f-65c56dfdba0f)
+
 - 파일 : local 저장소 혹은 데이터베이스에서 데이터 파일을 불러오는 기능 수행
 - Data Frame : 불러온 데이터 파일의 내용을 사용자에게 보여주는 기능 수행
 - Data Info : 샘플의 총 개수와 양품/불량의 개수
@@ -26,7 +27,7 @@ PyQT, QT Designer, Python, Statistics, ML/DL etc.
 <br>
 
 ## Data_analysis.py
-![image03](https://github.com/Jeong-Jisu/Data_Analysis_system/assets/112859100/6cc9ab13-6f68-412a-97c0-35ab93ec3980)
+![image02](https://github.com/Jeong-Jisu/Data_Analysis_system/assets/112859100/3d177821-913b-427a-9ea3-7c968109a35c)
 - 이상/결측치 제거 : IQR값을 이용하여 데이터의 이상치를 제거하고, 결측이 있는 데이터를 삭제한다.
 - Object Type 제거 : 속성 중 수치형 데이터가 아닌 Object형 데이터를 삭제한다.
 - 선형 회귀 분석 : 선형회귀모델을 사용하여 stepwise방법으로 결과 클래스에 영향을 주는 속성을 찾는다. 
